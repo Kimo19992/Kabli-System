@@ -8,5 +8,6 @@ its also in work in progress so expect to be released in the 3 year anniversary
  * Kopernicus (include KopernicusExpansion)
  * EVE
  * Scatterer (broken yet.. later will be fix.. in the next update.)
+ * Singularity
 
 you also need winrar too and bro github tutorial is NOT for the weaks /joke
