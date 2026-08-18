@@ -4,8 +4,9 @@ worked on since August 22 2023
 its also in work in progress so expect to be released in the 3 year anniversary
 
 Kabli System is only Compatible with
-Kopernicus (include KopernicusExpansion)
-EVE
-Scatterer (broken yet.. later will be fix.. in the next update.)
+
+ * Kopernicus (include KopernicusExpansion)
+ * EVE
+ * Scatterer (broken yet.. later will be fix.. in the next update.)
 
 you also need winrar too
