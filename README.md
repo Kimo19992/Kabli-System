@@ -9,4 +9,4 @@ its also in work in progress so expect to be released in the 3 year anniversary
  * EVE
  * Scatterer (broken yet.. later will be fix.. in the next update.)
 
-you also need winrar too and bro github tutorial is NOT for the weaks
+you also need winrar too and bro github tutorial is NOT for the weaks /joke
