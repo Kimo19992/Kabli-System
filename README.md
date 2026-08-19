@@ -9,5 +9,6 @@ its also in work in progress so expect to be released in the 3 year anniversary
  * EVE
  * Scatterer (broken yet.. later will be fix.. in the next update.)
  * Singularity
+ * you also need winrar too
 
-you also need winrar too and bro github tutorial is NOT for the weaks /joke
+annoucement August 19 2026 8:18 AM: somehow there are broke configs which is a big mistake making the release so release might come soon
